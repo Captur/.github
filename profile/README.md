@@ -4,4 +4,4 @@ Captur provides a hosted and on-device AI service to automatically process image
 
 ## API Documentation
 
-[Developer focused external APi documentation](https://captur.stoplight.io/)
+[Developer focused external API documentation](https://captur.stoplight.io/)
